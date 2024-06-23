@@ -1,5 +1,5 @@
-mod YourContract;
+mod VaultRelayer;
 #[cfg(test)]
 mod test {
-    mod TestContract;
+    mod VaultRelayer;
 }
